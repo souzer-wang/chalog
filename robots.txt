@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://chalog.github.io/sitemap.xml
+Sitemap: https://souzer-wang.github.io/sitemap.xml
