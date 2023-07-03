@@ -2,90 +2,99 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hugo Hermit</title>
-    <link>https://souzer-wang.github.io/tags/</link>
+    <link>https://blog.tongfuinn.cn/tags/</link>
     <description>Recent content in Tags on Hugo Hermit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 24 Dec 2018 12:29:41 +0800</lastBuildDate><atom:link href="https://souzer-wang.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Jul 2023 17:09:40 +0800</lastBuildDate><atom:link href="https://blog.tongfuinn.cn/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>untagged</title>
+      <link>https://blog.tongfuinn.cn/tags/untagged/</link>
+      <pubDate>Sun, 02 Jul 2023 17:09:40 +0800</pubDate>
+      
+      <guid>https://blog.tongfuinn.cn/tags/untagged/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Demo</title>
-      <link>https://souzer-wang.github.io/tags/demo/</link>
+      <link>https://blog.tongfuinn.cn/tags/demo/</link>
       <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
       
-      <guid>https://souzer-wang.github.io/tags/demo/</guid>
+      <guid>https://blog.tongfuinn.cn/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image</title>
-      <link>https://souzer-wang.github.io/tags/image/</link>
+      <link>https://blog.tongfuinn.cn/tags/image/</link>
       <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
       
-      <guid>https://souzer-wang.github.io/tags/image/</guid>
+      <guid>https://blog.tongfuinn.cn/tags/image/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Typography</title>
-      <link>https://souzer-wang.github.io/tags/typography/</link>
+      <link>https://blog.tongfuinn.cn/tags/typography/</link>
       <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
       
-      <guid>https://souzer-wang.github.io/tags/typography/</guid>
+      <guid>https://blog.tongfuinn.cn/tags/typography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>https://souzer-wang.github.io/tags/development/</link>
+      <link>https://blog.tongfuinn.cn/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://souzer-wang.github.io/tags/development/</guid>
+      <guid>https://blog.tongfuinn.cn/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>https://souzer-wang.github.io/tags/go/</link>
+      <link>https://blog.tongfuinn.cn/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://souzer-wang.github.io/tags/go/</guid>
+      <guid>https://blog.tongfuinn.cn/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://souzer-wang.github.io/tags/golang/</link>
+      <link>https://blog.tongfuinn.cn/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://souzer-wang.github.io/tags/golang/</guid>
+      <guid>https://blog.tongfuinn.cn/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://souzer-wang.github.io/tags/hugo/</link>
+      <link>https://blog.tongfuinn.cn/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://souzer-wang.github.io/tags/hugo/</guid>
+      <guid>https://blog.tongfuinn.cn/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>templates</title>
-      <link>https://souzer-wang.github.io/tags/templates/</link>
+      <link>https://blog.tongfuinn.cn/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://souzer-wang.github.io/tags/templates/</guid>
+      <guid>https://blog.tongfuinn.cn/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://souzer-wang.github.io/tags/themes/</link>
+      <link>https://blog.tongfuinn.cn/tags/themes/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://souzer-wang.github.io/tags/themes/</guid>
+      <guid>https://blog.tongfuinn.cn/tags/themes/</guid>
       <description></description>
     </item>
     

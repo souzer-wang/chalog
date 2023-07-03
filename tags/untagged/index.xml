@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>untagged on Hugo Hermit</title>
+    <link>https://blog.tongfuinn.cn/tags/untagged/</link>
+    <description>Recent content in untagged on Hugo Hermit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 02 Jul 2023 17:09:40 +0800</lastBuildDate><atom:link href="https://blog.tongfuinn.cn/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://blog.tongfuinn.cn/posts/test/</link>
+      <pubDate>Sun, 02 Jul 2023 17:09:40 +0800</pubDate>
+      
+      <guid>https://blog.tongfuinn.cn/posts/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
